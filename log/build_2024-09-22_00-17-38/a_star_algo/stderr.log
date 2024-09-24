@@ -1,0 +1,5 @@
+  File "/home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo/viz_node.py", line 77
+    'start',
+    ^^^^^^^
+SyntaxError: invalid syntax
+

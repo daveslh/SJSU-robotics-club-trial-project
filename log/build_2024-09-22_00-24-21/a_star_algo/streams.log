@@ -1,0 +1,45 @@
+[0.334s] Invoking command in '/home/davidhuang/Desktop/project_root/src/a_star_algo': PYTHONPATH=/home/davidhuang/Desktop/project_root/build/a_star_algo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/a_star_algo build --build-base /home/davidhuang/Desktop/project_root/build/a_star_algo/build install --record /home/davidhuang/Desktop/project_root/build/a_star_algo/install.log --single-version-externally-managed install_data
+[0.455s] running egg_info
+[0.456s] creating ../../build/a_star_algo/a_star_algo.egg-info
+[0.456s] writing ../../build/a_star_algo/a_star_algo.egg-info/PKG-INFO
+[0.456s] writing dependency_links to ../../build/a_star_algo/a_star_algo.egg-info/dependency_links.txt
+[0.456s] writing entry points to ../../build/a_star_algo/a_star_algo.egg-info/entry_points.txt
+[0.456s] writing requirements to ../../build/a_star_algo/a_star_algo.egg-info/requires.txt
+[0.456s] writing top-level names to ../../build/a_star_algo/a_star_algo.egg-info/top_level.txt
+[0.456s] writing manifest file '../../build/a_star_algo/a_star_algo.egg-info/SOURCES.txt'
+[0.457s] reading manifest file '../../build/a_star_algo/a_star_algo.egg-info/SOURCES.txt'
+[0.457s] adding license file 'LICENSE'
+[0.457s] writing manifest file '../../build/a_star_algo/a_star_algo.egg-info/SOURCES.txt'
+[0.458s] running build
+[0.458s] running build_py
+[0.458s] creating /home/davidhuang/Desktop/project_root/build/a_star_algo/build
+[0.458s] creating /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib
+[0.458s] creating /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo
+[0.458s] copying a_star_algo/goal_and_start_node.py -> /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo
+[0.458s] copying a_star_algo/__init__.py -> /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo
+[0.458s] copying a_star_algo/path_node.py -> /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo
+[0.458s] copying a_star_algo/map_node.py -> /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo
+[0.458s] running install
+[0.458s] running install_lib
+[0.459s] creating /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo
+[0.459s] copying /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo/goal_and_start_node.py -> /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo
+[0.459s] copying /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo/__init__.py -> /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo
+[0.459s] copying /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo/path_node.py -> /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo
+[0.459s] copying /home/davidhuang/Desktop/project_root/build/a_star_algo/build/lib/a_star_algo/map_node.py -> /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo
+[0.459s] byte-compiling /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo/goal_and_start_node.py to goal_and_start_node.cpython-310.pyc
+[0.460s] byte-compiling /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo/__init__.py to __init__.cpython-310.pyc
+[0.460s] byte-compiling /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo/path_node.py to path_node.cpython-310.pyc
+[0.461s] byte-compiling /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo/map_node.py to map_node.cpython-310.pyc
+[0.461s] running install_data
+[0.461s] creating /home/davidhuang/Desktop/project_root/install/a_star_algo/share/ament_index
+[0.461s] creating /home/davidhuang/Desktop/project_root/install/a_star_algo/share/ament_index/resource_index
+[0.461s] creating /home/davidhuang/Desktop/project_root/install/a_star_algo/share/ament_index/resource_index/packages
+[0.462s] copying resource/a_star_algo -> /home/davidhuang/Desktop/project_root/install/a_star_algo/share/ament_index/resource_index/packages
+[0.462s] copying package.xml -> /home/davidhuang/Desktop/project_root/install/a_star_algo/share/a_star_algo
+[0.462s] running install_egg_info
+[0.462s] Copying ../../build/a_star_algo/a_star_algo.egg-info to /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages/a_star_algo-0.0.0-py3.10.egg-info
+[0.462s] running install_scripts
+[0.476s] Installing create_goal_and_start = a_star_algo.goal_and_start_node:maincreate_path_viz script to /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/a_star_algo
+[0.476s] Installing create_map script to /home/davidhuang/Desktop/project_root/install/a_star_algo/lib/a_star_algo
+[0.476s] writing list of installed files to '/home/davidhuang/Desktop/project_root/build/a_star_algo/install.log'
+[0.490s] Invoked command in '/home/davidhuang/Desktop/project_root/src/a_star_algo' returned '0': PYTHONPATH=/home/davidhuang/Desktop/project_root/build/a_star_algo/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/davidhuang/Desktop/project_root/install/a_star_algo/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/a_star_algo build --build-base /home/davidhuang/Desktop/project_root/build/a_star_algo/build install --record /home/davidhuang/Desktop/project_root/build/a_star_algo/install.log --single-version-externally-managed install_data

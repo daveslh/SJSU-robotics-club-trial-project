@@ -1,0 +1,5 @@
+[console_scripts]
+create_goal_and_start = a_star_algo.goal_and_start_node:main
+create_map = a_star_algo.map_node:main
+create_path_viz = a_star_algo.path_node:main
+
