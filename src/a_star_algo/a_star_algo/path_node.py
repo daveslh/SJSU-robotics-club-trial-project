@@ -184,7 +184,7 @@ def main(args=None):
     
     try:
         while rclpy.ok():
-            rclpy.spin(new_path_node)
+            rclpy.spin_once(new_path_node)
 
             # for event in pygame.event.get():
             #     if event.type == pygame.QUIT:
